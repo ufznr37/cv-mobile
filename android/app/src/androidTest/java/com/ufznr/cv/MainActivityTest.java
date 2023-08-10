@@ -1,5 +1,5 @@
 // Change this line to YOUR package name:
-package com.ufznr.cv
+package com.ufznr.cv;
 
 import androidx.test.rule.ActivityTestRule;
 import dev.flutter.plugins.integration_test.FlutterTestRunner;
